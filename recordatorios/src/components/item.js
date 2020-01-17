@@ -10,7 +10,8 @@ const styles = StyleSheet.create({
     item: {
         fontSize: 18,
         height: 50,
-        padding: 15
+        padding: 15,
+        fontFamily: 'open-sans-bold'
     }
 })
 
